@@ -1,0 +1,56 @@
+.main-banner-content h6, .logo a h6, .navbar a h6{
+    font-size: 100px !important;
+}
+.main-banner-content h6{
+    color: #f8071f;
+}
+.main-banner-content .sub-title {
+font-weight: bold;
+}
+.buy-now-btn{
+display: none;
+}
+.single-live-stream-item img {
+height: 300px;
+object-fit: cover;
+}
+.logo a h6 {
+font-size: 50px !important;
+}
+.single-live-stream-box img {
+width: 100%;
+}
+.dot-menu{
+display: none;
+}
+.main-banner {
+padding-top: 50px;
+}
+.option-item {
+display: none;
+}
+.main-banner-content{
+padding-top: 5rem !important;
+}
+.page-title-content h1{
+font-size: 50px;
+}
+@media screen and (max-width: 767px) {
+.single-live-stream-item img {
+height: 115px !important;
+}
+.single-live-stream-item .video-btn {
+right: 10px;
+top: 10px;
+width: 25px;
+height: 25px;
+line-height: 25px;
+font-size: 12px;
+}
+.main-banner-content{
+padding-top: 0 !important;
+}
+.logo a h6 {
+font-size: 35px !important;
+}
+}
